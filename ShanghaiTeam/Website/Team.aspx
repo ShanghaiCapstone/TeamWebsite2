@@ -41,17 +41,17 @@
 
     <div class="row well">
         <div class="col-md-3">
-            <img style="margin-right: 20px;" src="" />
+            <img style="margin-right: 20px;" src="Images/weite.png" width="240px" height="373px"  />
         </div>
         <div class="col-md-9">
             <h3>Weite Geng</h3>
-            <p></p>
+            <p>Weite is a member of the team. His skills:</p>
             <ul>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>Back-end Development</li>
+                <li>Experience - none :(</li>
+                <li>Problem Solving</li>
             </ul>
-            <a href="">Go to Weite's homepage</a>
+            <a href="#">Go to Weite's homepage</a>
         </div> 
     </div>
 
